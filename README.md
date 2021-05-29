@@ -1,4 +1,9 @@
 # minmmwin-Programming-and-Software-Engineering-Practice-
 Programming and Software Engineering Practice (CS Final Year Module in Java)
 
-There are 2 Course Works for this modules.
+Java was used to implement the project for Course Work in this module.
+
+There are 3 files included.
+CourseWork1.jar (Executable jar file)
+CourseWork1.zip (.java files)
+Report
