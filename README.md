@@ -1,4 +1,4 @@
-# minmmwin-Programming-and-Software-Engineering-Practice-
+Programming-and-Software-Engineering-Practice
 Java Project for Programming and Software Engineering Practice Module (Computer Science Final Year)
 
 Java was used to implement the project for Course Work in this module.
